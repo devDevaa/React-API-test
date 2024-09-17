@@ -1,0 +1,16 @@
+{
+    "trips" : [
+        {
+            "name" : "2 night in Chaung Tha",
+            "price" : 10000
+        },
+        {
+            "name" : "1 night in Nay Pyi Taw",
+            "price" : 12000
+        },
+        {
+            "name" : "2 night in Mandalay",
+            "price" : 23000
+        }
+    ]
+}
